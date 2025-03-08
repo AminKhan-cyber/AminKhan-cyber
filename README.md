@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AminKhan-cyber
+- 👋 Hi, I’m Amin Ullah
 - 👀 I’m interested in Cyber Security 
 - 🌱 I’m currently learning Programming and Cyber Security 
 - 💞️ I’m looking to collaborate on 
